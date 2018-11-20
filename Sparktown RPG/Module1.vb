@@ -9,6 +9,12 @@
         Wait(1.5)
         Console.WriteLine("Let me tell you the story of the kingdom of SPARKLAND")
         Wait(1.5)
+        Console.WriteLine("SPARKLAND was once ruled by a king, who went by the name of DAVIDSON.")
+        Wait(1.5)
+        Console.WriteLine("The KINGDOM's military was very advanced, and their redstone contraptions were unrivaled by anyone else.")
+        Wait(1.5)
+        Console.WriteLine("One day, the king got married. He gave the entire military a day off.")
+        Wait(1.5)
     End Sub
 
     Sub Wait(time)
